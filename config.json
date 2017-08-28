@@ -1,5 +1,5 @@
 {
-    "hardware" : ["led", "servo", "microphone", "speaker"],
+    "hardware" : ["camera", "led", "servo", "microphone", "speaker"],
     "configuration" : {
         "robot": {
             "gender": "female"
@@ -9,16 +9,32 @@
         },
         "speak": {
             "language": "pt-BR"
+        }
+    },
+
+    "credentials": {
+        "conversation": {
+            "username": "xxx",
+            "password": "yyy"
         },
-        "credentials": {
-            "speech_to_text": {
-                "username": "xxx",
-                "password": "xxx"
-            },
-            "text_to_speech": {
-                "username": "xxx",
-                "password": "xxx"
-            }
+        "language_translator": {
+            "username": "xxx",
+            "password": "yyy"
+        },
+        "speech_to_text": {
+            "username": "xxx",
+            "password": "yyy"
+        },
+        "text_to_speech": {
+            "username": "xxx",
+            "password": "yyy"
+        },
+        "tone_analyzer": {
+            "username": "xxx",
+            "password": "yyy"
+        },
+        "visual_recognition": {
+            "api_key": "xxx"
         }
     }
 }
