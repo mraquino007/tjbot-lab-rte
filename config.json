@@ -1,0 +1,24 @@
+{
+    "hardware" : ["led", "servo", "microphone", "speaker"],
+    "configuration" : {
+        "robot": {
+            "gender": "female"
+        },
+        "listen": {
+            "language": "pt-BR"
+        },
+        "speak": {
+            "language": "pt-BR"
+        },
+        "credentials": {
+            "speech_to_text": {
+                "username": "xxx",
+                "password": "xxx"
+            },
+            "text_to_speech": {
+                "username": "xxx",
+                "password": "xxx"
+            }
+        }
+    }
+}
