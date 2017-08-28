@@ -2,7 +2,8 @@
     "hardware" : ["camera", "led", "servo", "microphone", "speaker"],
     "configuration" : {
         "robot": {
-            "gender": "female"
+            "gender": "female",
+            "name": "Amanda"
         },
         "listen": {
             "language": "pt-BR"

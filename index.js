@@ -5,5 +5,3 @@ const TJBot = require('tjbot');
 
 var tj = new TJBot(config.hardware, config.configuration, config.credentials);
 
-
-// Seu código vai aqui
