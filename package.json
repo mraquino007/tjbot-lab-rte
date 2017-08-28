@@ -1,0 +1,22 @@
+{
+  "name": "tjbot-lab-rte",
+  "version": "1.0.0",
+  "description": "TJ Bot Lab do RTE 2017",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mraquino007/tjbot-lab-rte.git"
+  },
+  "author": "mraquino & drip",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mraquino007/tjbot-lab-rte/issues"
+  },
+  "homepage": "https://github.com/mraquino007/tjbot-lab-rte#readme",
+  "dependencies": {
+    "tjbot": "^1.3.0"
+  }
+}
