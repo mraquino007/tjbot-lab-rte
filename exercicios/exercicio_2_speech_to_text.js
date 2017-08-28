@@ -1,13 +1,8 @@
-var config = require('./config.json');
-var workspaceId = 'zzz';
-
+var config = require('../config.json');
 const TJBot = require('tjbot');
 
 var tj = new TJBot(config.hardware, config.configuration, config.credentials);
 
-
-// Seu código vai aqui
-
-
-
-
+tj.listen(function(text) {
+    console.log(text);
+});
