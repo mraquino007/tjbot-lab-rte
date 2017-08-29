@@ -1,0 +1,15 @@
+{
+    "hardware" : [ "servo", "led"],
+    "configuration" : {
+        "robot": {
+            "gender": "female",
+            "name": "amanda"
+        },
+        "listen": {
+            "language": "pt-BR"
+        },
+        "speak": {
+            "language": "pt-BR"
+        }
+    }
+}

@@ -1,5 +1,4 @@
-var config = require('../config.json');
-var workspaceId = '2d8df45a-6e86-4c8c-8ee7-421aa9770048';
+var config = require('./config.json');
 
 const TJBot = require('tjbot');
 
@@ -16,8 +15,6 @@ tj.raiseArm();
 tj.pulse('blue', 2.0);
 
 tj.wave();
-
-console.log("Cores que o TJ Bot Conhece " + tj.shineColors());
 
 tj.shine(tj.randomColor());
 

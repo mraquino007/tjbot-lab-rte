@@ -3,7 +3,7 @@
     "configuration" : {
         "robot": {
             "gender": "female",
-            "name": "Amanda"
+            "name": "nome"
         },
         "listen": {
             "language": "pt-BR"
