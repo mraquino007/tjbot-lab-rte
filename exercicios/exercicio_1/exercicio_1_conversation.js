@@ -1,5 +1,5 @@
 var config = require('./config.json');
-var workspaceId = '2d8df45a-6e86-4c8c-8ee7-421aa9770048';
+var workspaceId = 'nnn';
 
 const TJBot = require('tjbot');
 

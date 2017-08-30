@@ -10,6 +10,12 @@
         },
         "speak": {
             "language": "pt-BR"
+        },
+        "credentials": {
+            "conversation": {
+                "username": "xxx",
+                "password": "yyy"
+            }
         }
     }
 }
